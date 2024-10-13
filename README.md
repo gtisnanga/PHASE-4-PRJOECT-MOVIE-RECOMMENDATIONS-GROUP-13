@@ -766,8 +766,6 @@ analysis.user_movie_interactions()
 
 ![image](https://github.com/user-attachments/assets/2c568f8e-7f3c-456f-a0e7-d76972fb8e96)
 
-![image](https://github.com/user-attachments/assets/78eada63-8f42-4771-9d95-fe81fd457729)
-
 # Modelling
 
 ```
