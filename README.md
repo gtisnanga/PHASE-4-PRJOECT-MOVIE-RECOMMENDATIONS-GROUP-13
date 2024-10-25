@@ -1,7 +1,7 @@
-Movie Recommendation System for MOVIE101
-Phase: 4 Group: 13
+# Movie Recommendation System for MOVIE101
+## Phase: 4 Group: 13
 
-Group Members:
+## Group Members:
 
 Sylvia Manono
 Amos Kipngetich
@@ -16,10 +16,10 @@ Scheduled Project Review Date/Time: October 14, 2024
 
 Instructor Name: Samuel G. Mwangi
 
-Executive Summary
+# EXECUTIVE SUMMARY
 This project aims to improve Netflix’s recommendation system to solve the issue of users endlessly scrolling to find content they enjoy. By enhancing the recommendation engine, Netflix seeks to provide more personalized and relevant suggestions, increasing user engagement and viewing time, while reducing decision fatigue.
 
-DATA DESCRIPTION
+# DATA DESCRIPTION
 There are a number of csv files available with different columns in the Data file.
 
 movies.csv
@@ -30,16 +30,16 @@ tags.csv
 
 links.csv
 
-Modelling
+# Modelling
 The reccommendation system employs both collaborative filtering and content based filtering methods. It uses matrix factorization techniques for collaborative filtering and cosine similarity for content based filtering.
 
-Evaluation
+# Evaluation
 The system is evaluated using metrics such as Root Mean Squared Error for rating predictions accuracy.
 
-Deployment
+# Deployment
 Deployment was done by Gradio.
 
-Future work
+# Future work
 Real-Time Recommendation Capabilities: Develop a real-time recommendation system that leverages live user activity and streaming data.
 
 Advanced Modeling Techniques: Investigate the potential of using more sophisticated algorithms, such as neural network-based matrix factorization or reinforcement learning approaches, to further enhance the accuracy and personalization of recommendations.
